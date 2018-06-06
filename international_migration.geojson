@@ -1,0 +1,599 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#fff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Alfredo Pareja Diezcanseco"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.89257812499999,
+            -2.284550660236957
+          ],
+          [
+            -74.00390625,
+            40.78054143186033
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#454545",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "New York"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00390625,
+          40.78054143186033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#b2b000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Guayaquil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.89257812499999,
+          -2.284550660236957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#aaa",
+        "stroke-width": 2,
+        "stroke-opacity": 5,
+        "name": "Gonzalo Merino Perez"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.89257812499999,
+            -2.284550660236957
+          ],
+          [
+            -74.00390625,
+            40.78054143186033
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#454545",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "New York"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00390625,
+          40.78054143186033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#b2b000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Guayaquil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.89257812499999,
+          -2.284550660236957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#222",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Mauricio Carrion Marquez"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.9554,
+            -3.2581
+          ],
+          [
+            -101.953125,
+            37.85750715625203
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f23",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.953125,
+          37.85750715625203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#b2b000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Machala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9554,
+          -3.2581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#fff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Mauricio Carrion Marquez"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.9554,
+            -3.2581
+          ],
+          [
+            -3.69140625,
+            40.58058466412761
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#af3",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Spain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69140625,
+          40.58058466412761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#b2b000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Machala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9554,
+          -3.2581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#a20",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Gonzalo Ortiz Crespo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -78.4678,
+            -0.1807
+          ],
+          [
+            12.83203125,
+            42.293564192170095
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff3",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.83203125,
+          42.293564192170095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#bbb",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Quito"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4678,
+          -0.1807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#a20",
+        "stroke-width": 5,
+        "stroke-opacity": 3,
+        "name": "Gonzalo Ortiz Crespo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -78.4678,
+            -0.1807
+          ],
+          [
+            -101.953125,
+            37.85750715625203
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff3",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.953125,
+          37.85750715625203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#bbb",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Quito"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4678,
+          -0.1807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#fa0",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Jorge Becerra"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -78.4678,
+            -0.1807
+          ],
+          [
+            -3.711,
+            40.3568
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff3",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.711,
+          40.3568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#bbb",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Quito"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4678,
+          -0.1807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#faf",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Juan Valdano Morejon"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -78.4678,
+            -1.1807
+          ],
+          [
+            -1.11,
+            37.93568
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faf",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Murcia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.11,
+          37.93568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#bbb",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Region Sierra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4678,
+          -1.1807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#3af",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Stalin Alvear"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -78.9678,
+            -2.9007
+          ],
+          [
+            -1.11,
+            37.93568
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faf",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Murcia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.11,
+          37.93568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#b21",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cuenca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9678,
+          -2.9007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#4af",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Stalin Alvear"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -78.9678,
+            -2.9007
+          ],
+          [
+            -3.711,
+            40.3568
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faf",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.711,
+          40.3568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#b21",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cuenca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9678,
+          -2.9007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#c3f",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Carlos Carrion"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.1978,
+            -4.0017
+          ],
+          [
+            -3.711,
+            40.3568
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faf",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.711,
+          40.3568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#c3f",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Loja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1978,
+          -4.0017
+        ]
+      }
+    }
+  ]
+}
