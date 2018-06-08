@@ -1,0 +1,336 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "colorsito": "red",
+        "stroke": "#fff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Luis A. Martinez"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.89257812499999,
+            -2.284550660236957
+          ],
+          [
+            -78.4678,
+            -0.1807
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#454545",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city-name": "Quito"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4678,
+          -0.1807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#b2b000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city-name": "Guayaquil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.89257812499999,
+          -2.284550660236957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "colorsito": "red",
+        "stroke": "#fa0",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Angel Felicisimo Rojas"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.1978,
+            -4.0017
+          ],
+          [
+            -79.1096901,
+            -4.5617374
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff3",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city-name": "Loja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1978,
+          -4.0017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#bbb",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city-name": "Palanda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1096901,
+          -4.5617374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "colorsito": "red",
+        "stroke": "#faf",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Alfonso Cuesta"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -78.7957856,
+            -3.0510692
+          ],
+          [
+            -78.9678,
+            -2.9007
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faf",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city-name": "Campo del Azuay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7957856,
+          -3.0510692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#bbb",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city-name": "Cuenca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9678,
+          -2.9007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "colorsito": "red",
+        "stroke": "#3af",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Alfonso Cuesta"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -78.7957856,
+            -3.0510692
+          ],
+          [
+            -78.0019641,
+            -1.4861419
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faf",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city-name": "Campo del Azuay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7957856,
+          -3.0510692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#b21",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city-name": "Region Amazonica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.0019641,
+          -1.4861419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "colorsito": "red",
+        "stroke": "#4af",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Alfonso Cuesta"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -78.7957856,
+            -3.0510692
+          ],
+          [
+            -80.0999996,
+            -0.6833306
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faf",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city-name": "Campo del Azuay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7957856,
+          -3.0510692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#b21",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city-name": "Region Litoral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0999996,
+          -0.6833306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "colorsito": "red",
+        "stroke": "#c3f",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Aquiles Jimbo Cordova",
+        "title": "Aquiles Jimbo Cordova"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.24468,
+            -4.38627
+          ],
+          [
+            -79.1978,
+            -4.0017
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faf",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city-name": "Zapotillo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.24468,
+          -4.38627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#c3f",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city-name": "Loja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1978,
+          -4.0017
+        ]
+      }
+    }
+  ]
+}
