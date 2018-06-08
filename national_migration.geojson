@@ -27,7 +27,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#454545",
+        "marker-color": "#23f",
         "marker-size": "medium",
         "marker-symbol": "",
         "city-name": "Quito"
@@ -98,7 +98,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#bbb",
+        "marker-color": "#110",
         "marker-size": "medium",
         "marker-symbol": "",
         "city-name": "Palanda"
@@ -137,7 +137,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#faf",
+        "marker-color": "#fff",
         "marker-size": "medium",
         "marker-symbol": "",
         "city-name": "Campo del Azuay"
@@ -192,7 +192,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#faf",
+        "marker-color": "#fff",
         "marker-size": "medium",
         "marker-symbol": "",
         "city-name": "Campo del Azuay"
@@ -208,7 +208,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#b21",
+        "marker-color": "#ff8c00",
         "marker-size": "medium",
         "marker-symbol": "",
         "city-name": "Region Amazonica"
@@ -247,7 +247,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#faf",
+        "marker-color": "#fff",
         "marker-size": "medium",
         "marker-symbol": "",
         "city-name": "Campo del Azuay"
@@ -283,8 +283,7 @@
         "stroke": "#66f",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "name": "Aquiles Jimbo Cordova",
-        "title": "Aquiles Jimbo Cordova"
+        "name": "Aquiles Jimbo Cordova"
       },
       "geometry": {
         "type": "LineString",
@@ -303,7 +302,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#faf",
+        "marker-color": "#0f0",
         "marker-size": "medium",
         "marker-symbol": "",
         "city-name": "Zapotillo"
@@ -339,8 +338,7 @@
         "stroke": "#66f",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "name": "Aquiles Jimbo Cordova",
-        "title": "Aquiles Jimbo Cordova"
+        "name": "Aquiles Jimbo Cordova"
       },
       "geometry": {
         "type": "LineString",
@@ -359,7 +357,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#faf",
+        "marker-color": "#0f0",
         "marker-size": "medium",
         "marker-symbol": "",
         "city-name": "Zapotillo"
@@ -375,7 +373,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#c3f",
+        "marker-color": "#23f",
         "marker-size": "medium",
         "marker-symbol": "",
         "city-name": "Quito"
@@ -395,8 +393,7 @@
         "stroke": "#66f",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "name": "Aquiles Jimbo Cordova",
-        "title": "Aquiles Jimbo Cordova"
+        "name": "Aquiles Jimbo Cordova"
       },
       "geometry": {
         "type": "LineString",
@@ -415,7 +412,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#faf",
+        "marker-color": "#0f0",
         "marker-size": "medium",
         "marker-symbol": "",
         "city-name": "Zapotillo"
@@ -431,7 +428,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#c3f",
+        "marker-color": "#ff8c00",
         "marker-size": "medium",
         "marker-symbol": "",
         "city-name": "Region Amazonica"
