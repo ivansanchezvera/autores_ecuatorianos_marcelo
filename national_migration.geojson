@@ -59,7 +59,7 @@
     {
       "type": "Feature",
       "properties": {
-        "colorsito": "red",
+        "colorsito": "green",
         "stroke": "#fa0",
         "stroke-width": 2,
         "stroke-opacity": 1,
@@ -69,8 +69,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -79.1978,
-            -4.0017
+            -79.17461,
+            -4.36263
           ],
           [
             -79.1096901,
@@ -85,13 +85,13 @@
         "marker-color": "#ff3",
         "marker-size": "medium",
         "marker-symbol": "",
-        "city-name": "Loja"
+        "city-name": "Yangana"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.1978,
-          -4.0017
+          -79.17461,
+          -4.36263
         ]
       }
     },
@@ -114,8 +114,8 @@
     {
       "type": "Feature",
       "properties": {
-        "colorsito": "red",
-        "stroke": "#faf",
+        "colorsito": "yellow",
+        "stroke": "#1af",
         "stroke-width": 2,
         "stroke-opacity": 1,
         "name": "Alfonso Cuesta"
@@ -169,8 +169,8 @@
     {
       "type": "Feature",
       "properties": {
-        "colorsito": "red",
-        "stroke": "#3af",
+        "colorsito": "yellow",
+        "stroke": "#1af",
         "stroke-width": 2,
         "stroke-opacity": 1,
         "name": "Alfonso Cuesta"
@@ -224,8 +224,8 @@
     {
       "type": "Feature",
       "properties": {
-        "colorsito": "red",
-        "stroke": "#4af",
+        "colorsito": "yellow",
+        "stroke": "#1af",
         "stroke-width": 2,
         "stroke-opacity": 1,
         "name": "Alfonso Cuesta"
@@ -279,8 +279,8 @@
     {
       "type": "Feature",
       "properties": {
-        "colorsito": "red",
-        "stroke": "#c3f",
+        "colorsito": "orange",
+        "stroke": "#66f",
         "stroke-width": 2,
         "stroke-opacity": 1,
         "name": "Aquiles Jimbo Cordova",
@@ -329,6 +329,118 @@
         "coordinates": [
           -79.1978,
           -4.0017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "colorsito": "orange",
+        "stroke": "#66f",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Aquiles Jimbo Cordova",
+        "title": "Aquiles Jimbo Cordova"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.24468,
+            -4.38627
+          ],
+          [
+            -78.4678,
+            -0.1807
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faf",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city-name": "Zapotillo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.24468,
+          -4.38627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#c3f",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city-name": "Quito"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4678,
+          -0.1807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "colorsito": "red",
+        "stroke": "#66f",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Aquiles Jimbo Cordova",
+        "title": "Aquiles Jimbo Cordova"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.24468,
+            -4.38627
+          ],
+          [
+            -78.0019641,
+            -1.4861419
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#faf",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city-name": "Zapotillo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.24468,
+          -4.38627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#c3f",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "city-name": "Region Amazonica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.0019641,
+          -1.4861419
         ]
       }
     }
