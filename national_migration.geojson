@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "colorsito": "red",
+        "colorsito": "blue",
         "stroke": "#fff",
         "stroke-width": 2,
         "stroke-opacity": 1,
@@ -389,7 +389,7 @@
     {
       "type": "Feature",
       "properties": {
-        "colorsito": "red",
+        "colorsito": "orange",
         "stroke": "#66f",
         "stroke-width": 2,
         "stroke-opacity": 1,
